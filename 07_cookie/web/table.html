@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+            table{
+               /* border-collapse: collapse;*/
+                width: 300px;
+                height: 300px;
+            }
+
+
+    </style>
+    <script src="js/jquery-1.7.2.js"></script>
+</head>
+<body>
+    <table border="1px">
+        <tr>
+            <td id="l">666</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+
+    </table>
+
+//
+    <form action="cookie.html" onsubmit="return demo()">
+        <input type="text" name="te" id="te">
+        <input type="password" name="pwd">
+        <input type="submit" value="提交">
+        <input type="radio" name="sex"  value="" id="nan">男
+        <input type="radio" name="sex"  value="">女
+    </form>
+    <script src="js/jquery-1.7.2.js"></script>
+<script>
+    // alert(5==5&&6==6);
+    // var  num="1";
+    // if (num){
+    //     alert("真");
+    // }else{
+    //     alert("假");
+    // }
+    // var  dun= {
+    //     name:"张三",
+    //    age:18,
+    //     fun:function () {
+    //         alert("我的名字叫做"+this.name+"我的年龄为"+this.age);
+    //     }
+    // };
+
+// alert(dun.name)
+//     dun.fun();
+    var s=document.getElementById("l");
+    s.onclick=function () {
+
+        alert("你点我干嘛");
+
+    }
+
+
+    function demo(){
+    alert(document.getElementById("te").value=="")
+        if(document.getElementById("te").value==""){
+            return false;
+        }
+
+        return true;
+    }
+    
+    
+    $(function () {
+          $("#nan").prop("checked","true");
+    })
+</script>
+</body>
+</html>

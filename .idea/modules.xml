@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02_web/02_web.iml" filepath="$PROJECT_DIR$/02_web/02_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_servlet/03_servlet.iml" filepath="$PROJECT_DIR$/03_servlet/03_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_servlet1/03_servlet1.iml" filepath="$PROJECT_DIR$/03_servlet1/03_servlet1.iml" />
+      <module fileurl="file://$PROJECT_DIR$//03_servlet_2.iml" filepath="$PROJECT_DIR$//03_servlet_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_servlet/04_servlet.iml" filepath="$PROJECT_DIR$/04_servlet/04_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_stu/04_stu.iml" filepath="$PROJECT_DIR$/04_stu/04_stu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_EL/05_EL.iml" filepath="$PROJECT_DIR$/05_EL/05_EL.iml" />
+      <module fileurl="file://$PROJECT_DIR$//05_servlet.iml" filepath="$PROJECT_DIR$//05_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_book/06_book.iml" filepath="$PROJECT_DIR$/06_book/06_book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_cookie/07_cookie.iml" filepath="$PROJECT_DIR$/07_cookie/07_cookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_Power/08_Power.iml" filepath="$PROJECT_DIR$/08_Power/08_Power.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_layui/09_layui.iml" filepath="$PROJECT_DIR$/09_layui/09_layui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_Test/10_Test.iml" filepath="$PROJECT_DIR$/10_Test/10_Test.iml" />
+    </modules>
+  </component>
+</project>
